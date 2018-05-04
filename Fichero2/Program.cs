@@ -101,6 +101,7 @@ namespace Fichero2
             //}
             //Console.ReadKey();
 
+            //intento sincronizar
         }
     }
 }
